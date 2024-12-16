@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_focused="true">
+        <shape android:shape="rectangle">
+            <solid android:color="#FFFFFF"/> <!-- Цвет фона -->
+            <corners android:radius="8sp"/> <!-- Закругление углов -->
+            <stroke
+                android:width="2dp"
+                android:color="@color/clickable_element"/> <!-- Цвет границы при фокусе -->
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#FFFFFF"/> <!-- Цвет фона -->
+            <corners android:radius="8sp"/> <!-- Закругление углов -->
+            <stroke
+                android:width="2sp"
+                android:color="@color/reglog_fields_corner"/> <!-- Цвет границы по умолчанию -->
+        </shape>
+    </item>
+</selector>
+

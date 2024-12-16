@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">libreReaderApp</string>
+    <string name="reg_page_header">Создайте аккаунт</string>
+    <string name="username_hint">Имя пользователя</string>
+    <string name="email_hint">Ваш Email</string>
+    <string name="password_hint">Ваш пароль</string>
+    <string name="conf_password_hint">Подтвердите пароль</string>
+    <string name="reg_button">Зарегистрироваться</string>
+    <string name="registration_text">Пожалуйста, введите требуемую ифнормацию и создайте аккаунт</string>
+    <string name="signin_redirect">Есть аккаунт?</string>
+    <string name="reg_header">Регистрация</string>
+    <string name="signin_link">Войти в аккаунт</string>
+    <string name="signin_bigheader">Вход в аккаунт</string>
+    <string name="signin_header">Добро пожаловать</string>
+    <string name="signin_help">Пожалуйста, введите ваш логин и пароль</string>
+    <string name="forgot_password">Забыли пароль?</string>
+    <string name="signup_redirect">Еще не зарегистрированы?</string>
+    <string name="signup_link">Регистрация</string>
+    <string name="signin">Войти</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="userpagebutton">UserPage</string>
+    <string name="profile_page">Профиль</string>
+    <string name="user_reviews">Просмотреть ваши отзывы на книги</string>
+    <string name="descriptionDeleteBookButton">Удаление книги автора</string>
+</resources>

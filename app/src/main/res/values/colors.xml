@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_text">#002055</color>
+    <color name="light_hints">#848A94</color>
+    <color name="night_background">#0A0C16</color>
+    <color name="clickable_element">#756EF3</color>
+    <color name="reglog_fields_corner">#E9F1FF</color>
+    <color name="instruction_color">#868D95</color>
+    <color name="red">#FF0000</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="green">#008000</color>
+</resources>
